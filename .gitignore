@@ -19,3 +19,10 @@ ENV/
 
 .DS_Store
 Thumbs.db
+
+# SQLite Database
+*.db
+*.sqlite
+*.sqlite3
+backend/labeltruth.db
+labeltruth.db

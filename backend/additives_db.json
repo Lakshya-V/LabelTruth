@@ -1,0 +1,10 @@
+{
+  "E621": {"name": "Monosodium Glutamate (MSG)", "risk": "Moderate", "note": "Excitotoxin; may trigger overeating"},
+  "E102": {"name": "Tartrazine", "risk": "High", "note": "Artificial dye; linked to hyperactivity"},
+  "E250": {"name": "Sodium Nitrite", "risk": "High", "note": "Preservative; forms carcinogenic nitrosamines when heated"},
+  "E951": {"name": "Aspartame", "risk": "Moderate", "note": "Artificial sweetener; potential gut microbiome disruptor"},
+  "MALTODEXTRIN": {"name": "Maltodextrin", "risk": "High", "note": "Glycemic Index ~110-185 (Spikes blood sugar faster than table sugar)"},
+  "HIGH FRUCTOSE CORN SYRUP": {"name": "HFCS", "risk": "High", "note": "Metabolized directly by the liver; linked to fatty liver and insulin resistance"},
+  "CORN SYRUP SOLIDS": {"name": "Corn Syrup Solids", "risk": "High", "note": "Disguised sugar variant with high glycemic load"},
+  "HYDROGENATED OIL": {"name": "Trans Fat Variant", "risk": "High", "note": "Industrial trans-fat precursor; elevates LDL cholesterol"}
+}
